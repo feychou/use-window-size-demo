@@ -2,4 +2,4 @@
 
 Ditto
 
-contains `useWindowSize` react custom hooks
+contains `useWindowSize` react custom hook
